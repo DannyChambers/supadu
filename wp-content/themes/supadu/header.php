@@ -20,7 +20,7 @@
         <header class="section" id="page_header">
             <div class="container">
 
-               <h1><a href="/" class="logo">Supadu! <span>basic Wordpress theme example</span></a></h1>
+               <h1><a href="/" class="logo">Supadu! <span>Basic custom theme example</span></a></h1>
 
                <button id="primary_navigation_trigger" class="icon-before icon-close"><span class="visually-hidden">Menu</span></button>
 
@@ -30,9 +30,9 @@
         <div id="primary_navigation" class="primary_navigation--active">
 
             <ul class="primary_navigation_list">
-                <li class="primary_navigation_item"><a href="/" class="inline_link"><span class="link_text">Menu item 1</span></a></li>
-                <li class="primary_navigation_item"><a href="/articles/" class="inline_link"><span class="link_text">Menu item 2</span></a></li>
-                <li class="primary_navigation_item"><a href="/prototypes/" class="inline_link"><span class="link_text">Menu item 3</span></a></li>
+                <li class="primary_navigation_item"><a href="#n" class="inline_link"><span class="link_text">Menu item 1</span></a></li>
+                <li class="primary_navigation_item"><a href="#n/" class="inline_link"><span class="link_text">Menu item 2</span></a></li>
+                <li class="primary_navigation_item"><a href="#n" class="inline_link"><span class="link_text">Menu item 3</span></a></li>
             </ul>
 
         </div>
